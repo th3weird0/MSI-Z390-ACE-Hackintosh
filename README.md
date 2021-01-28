@@ -1,3 +1,6 @@
+# OUT OF CARE
+because of graphics card change(recently changed my gpu from 1080ti to 3090),i cant keep renew this repo.and i upload my efi file that last time i check around it's working fine.if this helps.
+
 # MSI-Z390-ACE-Hackintosh
 MSI MEG Z390 ACE macOS10.13.6(17G66) with 10th gen NVIDIA Geforce GTX1080Ti basic Opencore hackintosh build 
 
